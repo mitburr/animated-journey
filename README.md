@@ -1,2 +1,3 @@
 # animated-journey
-test
+## this is a project
+I hope this works 
